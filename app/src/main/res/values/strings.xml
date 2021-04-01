@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DemoMVVM</string>
+    <string name="email">Email ID</string>
+    <string name="pwd">Password</string>
+    <string name="login">Log in</string>
+    <string name="next">Go to room activity</string>
+    <string name="fruit">Fruit Name</string>
+    <string name="add">Add</string>
+    <string name="single">Single Live Event Toast</string>
+    <string name="goToSingle">Go to single live event</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="a">Fragment A</string>
+    <string name="next_frg">Go to Fragment B</string>
+    <string name="press">Press back button to go fragment A</string>
+    <string name="b">Fragment B</string>
+    <string name="mediator">Go To Mediator LiveData</string>
+</resources>
